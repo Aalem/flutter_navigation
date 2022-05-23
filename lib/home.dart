@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.purple,
-        title: Text('Screen 0'),
+        title: Text('Home'),
       ),
       body: Center(
         child: Column(
